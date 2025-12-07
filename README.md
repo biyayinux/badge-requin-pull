@@ -1,4 +1,4 @@
 
 # Badge Requin Pull
 
-Reconnaît le mérite d'avoir fusionné de nombreuses Pull Requests (PRs) sur GitHub, attestant d'une contribution significative. 🚀
+👏🎉 Reconnaît et met en valeur le mérite 🎖️ d’avoir fusionné un grand nombre de Pull Requests (PRs) 🔧 sur GitHub 💻, attestant d’une contribution vraiment significative 🌟 et impactante 🚀🔥 !
